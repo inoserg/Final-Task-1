@@ -1,0 +1,15 @@
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.csproj.AssemblyReference.cache
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.GeneratedMSBuildEditorConfig.editorconfig
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.AssemblyInfoInputs.cache
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.AssemblyInfo.cs
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.csproj.CoreCompileInputs.cache
+I:\Учеба\ДЗ\C#\control task\bin\Debug\net6.0\control task.exe
+I:\Учеба\ДЗ\C#\control task\bin\Debug\net6.0\control task.deps.json
+I:\Учеба\ДЗ\C#\control task\bin\Debug\net6.0\control task.runtimeconfig.json
+I:\Учеба\ДЗ\C#\control task\bin\Debug\net6.0\control task.dll
+I:\Учеба\ДЗ\C#\control task\bin\Debug\net6.0\control task.pdb
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.dll
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\refint\control task.dll
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.pdb
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\control task.genruntimeconfig.cache
+I:\Учеба\ДЗ\C#\control task\obj\Debug\net6.0\ref\control task.dll
